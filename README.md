@@ -8,7 +8,7 @@
 > `desactive`
  
 * Generar archivo con las dependencias
-> `pip freeze > requeriments.txt`
+> `pip freeze > requirements.txt`
 
 * Instalar dependencias en un entorno virtual mediante un archivo requeriments
-> `pip install -r requeriments.txt`
+> `pip install -r requirements.txt`
